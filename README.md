@@ -13,8 +13,7 @@ This is a simple language translator web application built using pure HTML, CSS,
 
 # How to Use
 
-* Clone the repository to your local machine:
-git clone https://github.com/Venkateeshh/Js-Language-Translator.git
+
 * Open the index.html file in your web browser.
 * Enter the text you want to translate in the input field.
 * Select the source language and target language from the provided drop-down menus.
